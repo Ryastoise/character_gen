@@ -8,6 +8,6 @@ The character_gen.py file is the source code for the program that is character_g
 
 Where you can download it for yourself:
 * Google Drive: https://drive.google.com/file/d/14_gMDgJW5kzB8CVNAuk-qFC0rfmj-dPQ/view?usp=drive_link (Filename: character_gen.exe)
-* GitHub: Right here with either from the Releases tab, or the Code button above this post and click "Download ZIP".
+* GitHub: Right here with the Code button above this post and click "Download ZIP".
 
 So enjoy this generator to your heart's content, and don't stop thinking.
