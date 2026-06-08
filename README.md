@@ -10,4 +10,8 @@ Where you can download it for yourself:
 * Google Drive: https://drive.google.com/file/d/14_gMDgJW5kzB8CVNAuk-qFC0rfmj-dPQ/view?usp=drive_link (Filename: character_gen.exe)
 * GitHub: Right here with the Code button above this post and click "Download ZIP".
 
+Requirements:
+* Python 3 installed on your PC.
+* requests and BeautifulSoup4 both be installed using the following command line: `pip install beautifulsoup4 requests`
+
 So enjoy this generator to your heart's content, and don't stop thinking.
